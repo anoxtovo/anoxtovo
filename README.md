@@ -1,6 +1,7 @@
 <h1 align="center"> Hey there 👋, I'm Thumula Basura Suraweera</h1>
-<center>
-<image src="giphy.gif" width="480" height="270"></image></center>
+<div align="center">
+<image src="giphy.gif" width="480" height="270"></image>
+</div>
 
 ---
 
