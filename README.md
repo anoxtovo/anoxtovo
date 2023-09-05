@@ -33,7 +33,7 @@
 |[nextcal](https://github.com/anoxtovo/nextcal "nextcal")| Simple, Customizable calculator app built with Electron|
 | [simpleCMS](https://github.com/anoxtovo/simpleCMS "simpleCMS") | Simple but well-organized **Open-source** Content Management System developed using PHP. |
 | [bOS](https://github.com/anoxtovo/bOS "bOS") | bOS is a basic x86 operating system written in assembly and GNU C. |
-| [pyxplorer](https://github.com/anoxtovo/pyxplorer, "pyxplorer") | Open-source, web application scanner written in python. |
+| [pyxplorer](https://github.com/anoxtovo/pyxplorer "pyxplorer") | Open-source, web application scanner written in python. |
 
 <h3 align="left">Connect me with</h3>
 
